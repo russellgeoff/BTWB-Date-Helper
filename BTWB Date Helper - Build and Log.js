@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         BTWB Date Helper
+// @name         BTWB Date Helper - Build and Log
 // @namespace    https://russellgeoff.github.io/
 // @version      0.1
 // @description  Makes it easier to adjust the date on workouts
